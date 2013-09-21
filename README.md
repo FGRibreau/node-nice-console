@@ -1,4 +1,4 @@
-Nice-console
+Nice-console [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 =================
 
 Overview
